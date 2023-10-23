@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Justin\Documents\Programming\galleriem-backend\env"
+VIRTUAL_ENV="C:\Users\flori\OneDrive\Desktop\GallerieM-Backend\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
